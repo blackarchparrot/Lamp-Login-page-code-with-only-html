@@ -5,6 +5,9 @@ The page features a cute animated lamp that turns on/off by pulling its cord. Wh
 This project focuses on creative UI interaction and animation using SVG + GSAP.
 # 🌐 Live Demo
 👉 <a href="https://lamploginpageaasunny.netlify.app/">Click here to view the live preview⁠</a>
+
+Or direct link-
+https://lamploginpageaasunny.netlify.app/
 # ✨ Features
 💡 Interactive lamp switch animation
 🪢 Pull-cord interaction using draggable animation
