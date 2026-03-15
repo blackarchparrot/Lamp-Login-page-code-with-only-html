@@ -30,7 +30,7 @@ lamp-login-animation
 Clone the repository
 Copy code
 
-git clone https://github.com/blackarchparrot/.git
+git clone https://github.com/blackarchparrot/lamp-login-page-code-with-only-html.git
 Open the project folder.
 Run by opening index.html in your browser.
 # 🎯 Purpose of the Project
